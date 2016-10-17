@@ -15,7 +15,7 @@ As mentioned in the note the Features directory stores the feature files. The Tr
 
 There are two pre calulated feature files in the Features directory: 
 #### -calculated_features.csv
-#### -csvNormalized_calculated_features.csv.
+#### -Normalized_calculated_features.csv.
 
 
 
