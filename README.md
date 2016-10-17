@@ -3,7 +3,7 @@ Feature Extraction of Mental Load EEG signals
 
 This repository contains a Ipython notbook file which contains a module to extract features from EEG signals.
 
-Steps:
+##Steps:
 ###  Download the repository
 ###  Open the file Feature Extraction.ipynb
 ###  Run all the code in the notebook.
